@@ -1,5 +1,5 @@
 # ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
-## Name: Berjin SHbeck
+## Name: Berjin Shabeck
 ## Register Number: 212222240018
 ## Aim:
 
